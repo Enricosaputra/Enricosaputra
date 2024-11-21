@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Enricosaputra
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python,PHP,Java
+- 🌱 I’m currently learning Python,PHP,NodeJS
 - 💞️ I’m looking to collaborate on Backend related project
 - 📫 How to reach me enricosaputra1@gmail.com
 
